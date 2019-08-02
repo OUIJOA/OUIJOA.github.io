@@ -1,0 +1,52 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: HOME;
+}
+#HOME * {
+	margin: 0;
+	padding: 0;
+}
+#HOME {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1920;
+	height: 1080;
+	background-color: rgba(247,123,119,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-to-fit: true;
+	--web-enable-deep-linking: true;
+}
+#MK464 {
+	fill: url(#MK464_A0_Rectangle_2_pattern);
+}
+.MK464 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1440px;
+	left: 0px;
+	top: -360px;
+}
+#LogoText4_0bw_logo_ {
+	opacity: 0.9;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	fill: url(#LogoText4_0bw_logo__A0_Rectangle_4_pattern);
+}
+.LogoText4_0bw_logo_ {
+	position: absolute;
+	overflow: visible;
+	width: 53.793px;
+	height: 93px;
+	left: 62px;
+	top: 42px;
+}
